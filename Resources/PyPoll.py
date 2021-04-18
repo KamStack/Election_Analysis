@@ -149,6 +149,7 @@ with open(file_to_load) as election_data:
 # outfile.close()
 
 # Add our dependencies.
+# notes
 import csv
 import os
 # Assign a variable to load a file from a path.
